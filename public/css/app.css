@@ -37,6 +37,7 @@ p {
 
   gap: 29px;
   justify-content: center;
+  padding-inline: 5rem;
 }
 .super,
 .karma {
@@ -65,7 +66,7 @@ p {
   float: right;
   margin-top: 1rem;
 }
-@media (max-width: 1080px) {
+@media (max-width: 1100px) {
   .cards_intro {
     padding-inline: 3rem;
   }
