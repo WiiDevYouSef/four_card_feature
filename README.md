@@ -1,9 +1,4 @@
 
-## Table of contents
-
-  - [Built with](#HTML-CSS)
-
-
 ### Screenshot
 
 ![](./public/images/desktop-screenshot.png)
@@ -12,14 +7,14 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/flex-ESX_WmDoE5)
 
 
 
 ### DEMO : 
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL ](https://wiidevyousef.github.io/four_card_feature/)
 
 
 
